@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Amgad Osman</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omaramgad1&label=Profile%20views&color=0e75b6&style=flat" alt="omaramgad1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaramgad1" alt="omaramgad1" /></a> </p>
-
 - 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **Omaramgad89@gmail.com**
